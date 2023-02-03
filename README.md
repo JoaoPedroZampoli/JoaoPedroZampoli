@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoPedroZampoli/c78716953d054ad08446d14fe9772d4f/raw/2e51a930cea96216a4b0ecc1042a1514ac962757/githubmainpagecard.svg"/>
+<h1 align="left">Hello! 👋 I'm João Pedro da S. Zampoli</h1>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=joaopedrozampoli&color=blue" alt="Profile Views"/></p> -->
 <!--
 **Jpsz2014/Jpsz2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
