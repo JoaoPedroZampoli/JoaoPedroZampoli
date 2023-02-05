@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoPedroZampoli/c78716953d054ad08446d14fe9772d4f/raw/2e51a930cea96216a4b0ecc1042a1514ac962757/githubmainpagecard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoPedroZampoli/7957b487985d3ca82aac0f72002cf2a6/raw/ff061a184f4f3c2f563f3b88a038333b5d008225/githubmainpagecard.svg"/>
 <h1 align="left">Hello! 👋 I'm João Pedro da S. Zampoli</h1>
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=joaopedrozampoli&color=blue" alt="Profile Views"/></p> -->
 <!--
