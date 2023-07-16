@@ -1,5 +1,22 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoPedroZampoli/7957b487985d3ca82aac0f72002cf2a6/raw/ff061a184f4f3c2f563f3b88a038333b5d008225/githubmainpagecard.svg"/>
 <h1 align="left">Hello! 👋 I'm João Pedro da S. Zampoli</h1>
+<h4>PT-BR</h4>
+<p>
+- 🏙️ Atualmente vivendo entre Jacareí e São José dos Campos
+<br>
+- 🏫 Formado como Técnico em Desenvolvimento de Sistemas pela Etec de Poá
+<br>
+- 📚 Atualmente Estudando Ciência e Tecnologia (com foco em Ciência da Computação) na Unifesp
+</p>
+<br>
+<h4>EN</h4>
+<p>
+- 🏙️ Currently spliting my time between Jacareí and São José dos Campos
+<br>
+- 🏫 Graduated as a Systems Development Technician by Etec de Poá
+<br>
+- 📚 Currently Studying Science and Technology (with emphasis on Computer Science) at Unifesp
+</p>
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=joaopedrozampoli&color=blue" alt="Profile Views"/></p> -->
 <!--
 **Jpsz2014/Jpsz2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 Formado como Técnico em Desenvolvimento de Sistemas pela Etec de Poá
-- 📚 Atualmente Estudando Ciência e Tecnologia (com foco em Ciência da Computação) na Unifesp
+
