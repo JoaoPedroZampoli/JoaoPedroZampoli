@@ -7,6 +7,8 @@
 - 🏫 Formado como Técnico em Desenvolvimento de Sistemas pela Etec de Poá
 <br>
 - 📚 Atualmente Estudando Ciência e Tecnologia (com foco em Ciência da Computação) na Unifesp
+<br>
+- 👨‍💻 Anteriormente, fui Estagiário na Área de Desenvolvimento Web (HTML, CSS, JavaScript, jQuery, Bootstrap)
 </p>
 <br>
 <h4>EN</h4>
@@ -16,8 +18,10 @@
 - 🏫 Graduated as a Systems Development Technician by Etec de Poá
 <br>
 - 📚 Currently Studying Science and Technology (with emphasis on Computer Science) at Unifesp
+<br>
+- 👨‍💻 Previously, I was an Intern in the Web Development field (used HTML, CSS, JavaScript, jQuery, Bootstrap).
 </p>
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=joaopedrozampoli&color=blue" alt="Profile Views"/></p> -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=joaopedrozampoli&color=blue" alt="Profile Views"/></p>
 <!--
 **Jpsz2014/Jpsz2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
