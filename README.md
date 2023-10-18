@@ -23,6 +23,12 @@
 <br>
 - 👨‍💻 Previously, I was an Intern in the Web Development field (used HTML, CSS, JavaScript, jQuery, Bootstrap).
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=joaopedrozampoli&color=blue" alt="Profile Views"/></p>-->
 <!--
 **Jpsz2014/Jpsz2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
