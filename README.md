@@ -1,4 +1,5 @@
 <img align="right" height="100%" src="https://raw.githubusercontent.com/gist/JoaoPedroZampoli/7957b487985d3ca82aac0f72002cf2a6/raw/ff061a184f4f3c2f563f3b88a038333b5d008225/githubmainpagecard.svg"/>
+
 <h1 align="left">Hello! 👋
   <br> I'm João Pedro da S. Zampoli
 </h1>
@@ -29,6 +30,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPedroZampoli/JoaoPedroZampoli/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoPedroZampoli/JoaoPedroZampoli/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!--<a align="right" href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=JoaoPedroZampoli&theme=sunset-gradient&border_radius=16&background=45%2C302B63%2C24243E" alt="GitHub Streak" /></a>-->
 <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=joaopedrozampoli&color=blue" alt="Profile Views"/></p>-->
 <!--
 **Jpsz2014/Jpsz2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
