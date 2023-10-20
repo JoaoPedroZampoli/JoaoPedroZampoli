@@ -17,7 +17,7 @@
 <p>
 - 🏙️ Currently spliting my time between Jacareí and São José dos Campos
 <br>
-- 🏫 Graduated as a Systems Development Technician by Etec de Poá
+- 🏫 Graduated as a Systems Development Technician from Etec de Poá
 <br>
 - 📚 Currently Studying Science and Technology (with emphasis on Computer Science) at Unifesp
 <br>
