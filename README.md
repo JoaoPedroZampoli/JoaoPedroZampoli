@@ -1,7 +1,6 @@
 <!--<img align="right" height="100%" src="https://raw.githubusercontent.com/gist/JoaoPedroZampoli/7957b487985d3ca82aac0f72002cf2a6/raw/ff061a184f4f3c2f563f3b88a038333b5d008225/githubmainpagecard.svg"/>-->
 
-<h1 align="left">Hello! 👋
-  <br> I'm João Pedro da S. Zampoli
+<h1 align="left">Hey! I'm João Pedro 👋
 </h1>
 <h4>PT-BR</h4>
 <p>
