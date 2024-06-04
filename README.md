@@ -32,6 +32,26 @@
 
 <!--<a align="right" href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=JoaoPedroZampoli&theme=sunset-gradient&border_radius=16&background=45%2C302B63%2C24243E" alt="GitHub Streak" /></a>-->
 <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=joaopedrozampoli&color=blue" alt="Profile Views"/></p>-->
+<!--### Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedroZampoli&theme=yeblu" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroZampoli&theme=yeblu" height="200"/>
+    </td>
+  </tr>
+</table>
+
+
+
+### Algumas das minhas redes:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/joaopedrozampoli/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoPedroZampoli)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/JoaoPedroZampoli)
+
+-->
 <!--
 **Jpsz2014/Jpsz2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
