@@ -12,7 +12,7 @@
 <br>
 - 👨‍💻 Anteriormente, fui Estagiário na Área de Desenvolvimento Web (HTML, CSS, JavaScript, jQuery, Bootstrap)
 <br>
-- 📋 Atuo em alguns projetos de extensão da Unifesp, são eles: [CodeLab](https://www.codelab-unifesp.org/), [CodeLab Teen](https://www.instagram.com/codelab.unifesp/) e [Interlinguando](https://www.instagram.com/projeto.interlinguando)
+- 📋 Atuo em alguns projetos de extensão da Unifesp, são eles: <a href="https://www.codelab-unifesp.org/">CodeLab</a>, <a href="https://www.instagram.com/codelab.unifesp/">CodeLab Teen</a> e <a href="https://www.instagram.com/projeto.interlinguando">Interlinguando</a>
 </p>
 <br>
 <h4>EN</h4>
@@ -24,6 +24,8 @@
 - 📚 Currently Studying Science and Technology (with emphasis on Computer Science) at Unifesp
 <br>
 - 👨‍💻 Previously, I was an Intern in the Web Development field (used HTML, CSS, JavaScript, jQuery, Bootstrap).
+<br>
+- 📋 I am currently participating in some extension projects at Unifesp, they are: CodeLab, CodeLab Teen and Interlinguando
 </p>
 
 <picture>
