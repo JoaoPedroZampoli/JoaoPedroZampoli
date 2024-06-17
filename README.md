@@ -11,6 +11,8 @@
 - 📚 Atualmente Estudando Ciência e Tecnologia (com foco em Ciência da Computação) na Unifesp
 <br>
 - 👨‍💻 Anteriormente, fui Estagiário na Área de Desenvolvimento Web (HTML, CSS, JavaScript, jQuery, Bootstrap)
+<br>
+- 📋 Atuo em alguns projetos de extensão da Unifesp, são eles: [CodeLab](https://www.codelab-unifesp.org/), [CodeLab Teen](https://www.instagram.com/codelab.unifesp/) e [Interlinguando](https://www.instagram.com/projeto.interlinguando)
 </p>
 <br>
 <h4>EN</h4>
