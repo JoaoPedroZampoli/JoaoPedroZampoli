@@ -25,7 +25,7 @@
 <br>
 - 👨‍💻 Previously, I was an Intern in the Web Development field (used HTML, CSS, JavaScript, jQuery, Bootstrap).
 <br>
-- 📋 I am currently participating in some extension projects at Unifesp, they are: CodeLab, CodeLab Teen and Interlinguando
+- 📋 I am currently participating in some extension projects at Unifesp, they are: <a href="https://www.codelab-unifesp.org/">CodeLab</a>, <a href="https://www.instagram.com/codelab.unifesp/">CodeLab Teen</a> and <a href="https://www.instagram.com/projeto.interlinguando">Interlinguando</a>
 </p>
 
 <picture>
