@@ -31,19 +31,19 @@
 <p>
 <br>
   
-#### Unpretentious FAQ about me 😶 (just a more casual and easygoing way to talk about me)
+#### Unpretentious FAQ about me 😶 (just a more casual and easygoing way to talk about myself)
 
 ##### Where do you live?
-- I'm currently splitting my time between Jacareí (where I truly live) and São José dos Campos (where I study, and pass my time there more than in Jacareí)
+- I'm currently splitting my time between Jacareí (where I truly live) and São José dos Campos (where I study, and spend most of my time)
 ##### What's your background?
-- I officialy started studying Technology during my Technician Course in Systems Development at Etec de Poá (2020-2022)
-- Before that I've tried to learn some things in game development (mostly Unity)
-- I'm Currently Studying Science and Technology (with emphasis on Computer Science) at Unifesp (since 2023)
-- Previously, I was an Intern in the Web Development field (commonly used HTML, CSS, JavaScript, jQuery, Bootstrap).
+- I officially started studying technology during my Technician Course in Systems Development at Etec de Poá (2020-2022)
+- Before that, I tried to learn some things in game development (back in the Unity 5 days)
+- I'm currently studying Science and Technology (with emphasis on Computer Science) at Unifesp (since 2023)
+- Previously, I worked as an intern in the Web Development field (mainly using HTML, CSS, JavaScript, jQuery, Bootstrap).
 ##### What interesting things are you doing nowadays?
 - I am currently participating in some extension projects at Unifesp, such as: <a href="https://www.codelab-unifesp.org/">CodeLab</a>, <a href="https://www.instagram.com/codelab.unifesp/">CodeLab Teen - Arduino</a>
-- I'm also taking part as a Member of the Student Council (<a href="https://www.instagram.com/daak.unifesp/">DAAK</a>) in the sector of Student Affairs
-- Taking part into some interesting (and cool) stuff such as <a href="https://livramente.vercel.app/">Livramente</a> (a project of a Social Media for Brazilian readers)
+- I'm also involved in the Student Council (<a href="https://www.instagram.com/daak.unifesp/">DAAK</a>) as a Member of the sector of Student Affairs
+- I'm taking part in some interesting (and cool) stuff such as <a href="https://livramente.vercel.app/">Livramente</a> (a project of a Social Media for Brazilian readers)
 - Looking out for some new opportunities in the Tech sector
 - And I'm also thinking about changing this readme 📝
 
