@@ -43,7 +43,6 @@
 ##### What interesting things are you doing nowadays?
 - I am currently participating in some extension projects at Unifesp, such as: <a href="https://www.codelab-unifesp.org/">CodeLab</a>, <a href="https://www.instagram.com/codelab.unifesp/">CodeLab Teen - Arduino</a>
 - I'm also involved in the Student Council (<a href="https://www.instagram.com/daak.unifesp/">DAAK</a>) as a Member of the sector of Student Affairs
-- I'm taking part in some interesting (and cool) stuff such as <a href="https://livramente.vercel.app/">Livramente</a> (a project of a Social Media for Brazilian readers)
 - Looking out for some new opportunities in the Tech sector
 - And I'm also thinking about changing this readme 📝
 
