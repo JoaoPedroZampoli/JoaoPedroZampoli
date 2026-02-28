@@ -10,7 +10,7 @@
 <br>
 - 📚 Atualmente Estudando Ciência e Tecnologia (com foco em Ciência da Computação) na Unifesp
 <br>
-- 👨‍💻 Anteriormente, fui Estagiário na Área de Desenvolvimento Web (HTML, CSS, JavaScript, jQuery, Bootstrap)
+- 👨‍💻 Atualmente sou Estagiário em Engenharia de Software no <a href="https://github.com/nubank"> Nubank </a>
 <br>
 - 📋 Atuo em alguns projetos de extensão da Unifesp, são eles: <a href="https://www.codelab-unifesp.org/">CodeLab</a>, <a href="https://www.instagram.com/codelab.unifesp/">CodeLab Teen</a> e <a href="https://www.instagram.com/projeto.interlinguando">Interlinguando</a>
 </p>
@@ -23,7 +23,7 @@
 <br>
 - 📚 Currently Studying Science and Technology (with emphasis on Computer Science) at Unifesp
 <br>
-- 👨‍💻 Previously, I was an Intern in the Web Development field (used HTML, CSS, JavaScript, jQuery, Bootstrap).
+- 👨‍💻 Currently, I am a Software Engineering Intern at <a href="https://github.com/nubank"> Nubank </a>
 <br>
 - 📋 I am currently participating in some extension projects at Unifesp, they are: <a href="https://www.codelab-unifesp.org/">CodeLab</a>, <a href="https://www.instagram.com/codelab.unifesp/">CodeLab Teen</a> and <a href="https://www.instagram.com/projeto.interlinguando">Interlinguando</a>
 </p>
@@ -40,6 +40,7 @@
 - Before that, I tried to learn some things in game development (back in the Unity 5 days)
 - I'm currently studying Science and Technology (with emphasis on Computer Science) at Unifesp (since 2023)
 - Previously, I worked as an intern in the Web Development field (mainly using HTML, CSS, JavaScript, jQuery, Bootstrap).
+- Now, I'm an intern on Nubank's Software Engineering team (using Clojure, Datomic and BDC).
 ##### What interesting things are you doing nowadays?
 - I am currently participating in some extension projects at Unifesp, such as: <a href="https://www.codelab-unifesp.org/">CodeLab</a>, <a href="https://www.instagram.com/codelab.unifesp/">CodeLab Teen - Arduino</a>
 - I'm also involved in the Student Council (<a href="https://www.instagram.com/daak.unifesp/">DAAK</a>) as a Member of the sector of Student Affairs
