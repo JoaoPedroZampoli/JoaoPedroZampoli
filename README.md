@@ -4,7 +4,7 @@
 </h1>
 <h3>PT-BR</h3>
 <p>
-- 🏙️ Atualmente vivendo entre Jacareí e São José dos Campos
+- 🏙️ Atualmente vivendo entre Jacareí, São José dos Campos and São Paulo
 <br>
 - 🏫 Formado como Técnico em Desenvolvimento de Sistemas pela Etec de Poá
 <br>
@@ -17,7 +17,7 @@
 <br>
 <h3>EN</h3>
 <p>
-- 🏙️ Currently spliting my time between Jacareí and São José dos Campos
+- 🏙️ Currently spliting my time between Jacareí, São José dos Campos and São Paulo
 <br>
 - 🏫 Graduated as a Systems Development Technician from Etec de Poá
 <br>
